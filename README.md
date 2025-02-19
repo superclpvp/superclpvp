@@ -1,4 +1,6 @@
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superclpvp)](https://github.com/superclpvp/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superclpvp&layout=donut)](https://github.com/superclpvp/github-readme-stats)
+<a href="https://github.com/superclpvp/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/superclpvp/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=superclpvp&layout=compact&langs_count=8&card_width=320" />
+</a>
